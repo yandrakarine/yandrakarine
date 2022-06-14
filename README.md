@@ -1,4 +1,5 @@
 ### Olá! eu sou a Yandra
+Atualmente estou cursando Analise e desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/yandrakarine">
