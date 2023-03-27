@@ -1,6 +1,15 @@
-### Olá! eu sou a Yandra
-<span>Atualmente estou cursando Analise e desenvolvimento de Sistemas e estudando desenvolvimento frontend</span>
+### Olá! :wave: :slightly_smiling_face:
+<div>
+  <span>:books: | Atualmente estou cursando Análise e desenvolvimento de Sistemas</span>
+</div>
+<div>
+  <span>:woman_technologist: | No momento estou trabalhando com Desenvolvimento web | Frontend</span>
+</div>
+<div>
+  <span>- Entre em contato comigo pelo <a href="https://www.linkedin.com/in/yandra-karine-lima-bezerra-4183b4143/">Linkedin</a></span>
+</div>
 
+##
 <div align="center">
   <a href="https://github.com/yandrakarine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yandrakarine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
