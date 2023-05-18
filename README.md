@@ -8,6 +8,11 @@
 <div>
   <span>- Entre em contato comigo pelo <a href="https://www.linkedin.com/in/yandra-karine-4183b4143/">Linkedin</a></span>
 </div>
+<div>
+<span>
+  - Veja mais sobre mim <a href="yandra-karine-site.vercel.app">aqui</a>
+</span>
+</div>
 
 ##
 <div align="center">
