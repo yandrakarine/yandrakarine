@@ -6,7 +6,7 @@
   <span>:woman_technologist: | No momento estou trabalhando com Desenvolvimento web | Frontend</span>
 </div>
 <div>
-  <span>- Entre em contato comigo pelo <a href="https://www.linkedin.com/in/yandra-karine-4183b4143/" target="_blank" >Linkedin</a></span>
+  <span>- Entre em contato comigo pelo <a href="https://www.linkedin.com/in/yandra-karine-lima-4183b4143/" target="_blank" >Linkedin</a></span>
 </div>
 <div>
 <span>
