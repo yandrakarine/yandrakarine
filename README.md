@@ -10,7 +10,7 @@
 </div>
 <div>
 <span>
-  - Veja mais sobre mim <a href="https://yandra-karine-site.vercel.app" target="_blank" >aqui</a>
+  - Veja mais sobre mim <a href="https://yandra-karine-site.web.app/home" target="_blank" >aqui</a>
 </span>
 </div>
 
