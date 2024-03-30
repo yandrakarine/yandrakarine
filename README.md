@@ -3,7 +3,7 @@
   <span>:books: | Atualmente estou cursando Análise e desenvolvimento de Sistemas</span>
 </div>
 <div>
-  <span>:woman_technologist: | FullStack</span>
+  <span>:woman_technologist: | Desenvolvedora de software</span>
 </div>
 <div>
   <span>- Entre em contato comigo pelo <a href="https://www.linkedin.com/in/yandra-karine-lima-4183b4143/" target="_blank" >Linkedin</a></span>
